@@ -1,0 +1,2380 @@
+[{
+    "IsAccessibility": false,
+    "Latitude": 46.2780635,
+    "LocationId": "28",
+    "Longitude": 20.170845,
+    "value": "Acél u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2725915,
+    "LocationId": "34",
+    "Longitude": 20.153835,
+    "value": "Agyagos u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2346385,
+    "LocationId": "36",
+    "Longitude": 20.151371,
+    "value": "Akácfa u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.335556,
+    "LocationId": "4497",
+    "Longitude": 20.196111,
+    "value": "Algyő"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2524635,
+    "LocationId": "60",
+    "Longitude": 20.131533,
+    "value": "Alkony u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.28079,
+    "LocationId": "62",
+    "Longitude": 20.16795,
+    "value": "Alkotmány u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2417705,
+    "LocationId": "2591",
+    "Longitude": 20.1541765,
+    "value": "Alsó kikötő sor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25619,
+    "LocationId": "4498",
+    "Longitude": 20.147605,
+    "value": "Anna - kút"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.2561828571429,
+    "LocationId": "2544",
+    "Longitude": 20.1481471428571,
+    "value": "Anna - kút"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.21099,
+    "LocationId": "76",
+    "Longitude": 20.108055,
+    "value": "Apály u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.247835,
+    "LocationId": "4499",
+    "Longitude": 20.146985,
+    "value": "Aradi vértanúk tere"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.247704,
+    "LocationId": "86",
+    "Longitude": 20.147008,
+    "value": "Aradi vértanúk tere"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.23617,
+    "LocationId": "2593",
+    "Longitude": 20.170975,
+    "value": "Aranyosi utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2561755,
+    "LocationId": "95",
+    "Longitude": 20.1935455,
+    "value": "Árok u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2235375,
+    "LocationId": "106",
+    "Longitude": 20.0852395,
+    "value": "Artézi kút"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.255621,
+    "LocationId": "2702",
+    "Longitude": 20.141248,
+    "value": "Attila u. (Mars tér)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25477,
+    "LocationId": "4545",
+    "Longitude": 20.138981,
+    "value": "Attila u. (Mars tér)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.274345,
+    "LocationId": "2684",
+    "Longitude": 20.103144,
+    "value": "Auchan Áruház"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2835865,
+    "LocationId": "4460",
+    "Longitude": 20.0880295,
+    "value": "Back Bernát utca 2."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2867555,
+    "LocationId": "4461",
+    "Longitude": 20.0856635,
+    "value": "Back Bernát utca 6."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2548385,
+    "LocationId": "165",
+    "Longitude": 20.1091675,
+    "value": "Bajai út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2607505,
+    "LocationId": "166",
+    "Longitude": 20.123346,
+    "value": "Bakay Nándor utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.29045,
+    "LocationId": "176",
+    "Longitude": 20.16077,
+    "value": "Baktó,Völgyérhát u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2774325,
+    "LocationId": "2945",
+    "Longitude": 20.0635095,
+    "value": "Balajthy utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.281354,
+    "LocationId": "217",
+    "Longitude": 20.1708185,
+    "value": "Balatoni u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2238235,
+    "LocationId": "238",
+    "Longitude": 20.192194,
+    "value": "Barázda u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.409147,
+    "LocationId": "4500",
+    "Longitude": 20.315671,
+    "value": "Bartók Béla tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25464,
+    "LocationId": "240",
+    "Longitude": 20.14376,
+    "value": "Bartók tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.270399,
+    "LocationId": "2594",
+    "Longitude": 20.060496,
+    "value": "Basahíd utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.243485,
+    "LocationId": "4501",
+    "Longitude": 20.1438,
+    "value": "Bécsi krt."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.243485,
+    "LocationId": "257",
+    "Longitude": 20.1438,
+    "value": "Bécsi krt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2439365,
+    "LocationId": "2833",
+    "Longitude": 20.1402915,
+    "value": "Bécsi krt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.278675,
+    "LocationId": "280",
+    "Longitude": 20.130358,
+    "value": "Béketelep, MEDIKÉMIA"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2727165,
+    "LocationId": "281",
+    "Longitude": 20.122922,
+    "value": "Béketelepi Ált. Isk."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.255432,
+    "LocationId": "2834",
+    "Longitude": 20.106225,
+    "value": "Belvárosi temető"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.256115,
+    "LocationId": "284",
+    "Longitude": 20.1062445,
+    "value": "Belvárosi temető"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2589995,
+    "LocationId": "2501",
+    "Longitude": 20.106865,
+    "value": "Belvárosi temető II. kapu"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.240209,
+    "LocationId": "289",
+    "Longitude": 20.141269,
+    "value": "Bem utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.240209,
+    "LocationId": "4502",
+    "Longitude": 20.141269,
+    "value": "Bem utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2614065,
+    "LocationId": "298",
+    "Longitude": 20.15078,
+    "value": "Berlini körút"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2581095,
+    "LocationId": "301",
+    "Longitude": 20.1883285,
+    "value": "Beszterce utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.288496,
+    "LocationId": "310",
+    "Longitude": 20.1638765,
+    "value": "Bognár u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.276022,
+    "LocationId": "2801",
+    "Longitude": 20.058467,
+    "value": "Brassói utca"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.261795,
+    "LocationId": "341",
+    "Longitude": 20.157555,
+    "value": "Brüsszeli krt."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.27266,
+    "LocationId": "346",
+    "Longitude": 20.15916,
+    "value": "Budapesti krt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2726305,
+    "LocationId": "2835",
+    "Longitude": 20.1595255,
+    "value": "Budapesti krt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.267635,
+    "LocationId": "2595",
+    "Longitude": 20.1029795,
+    "value": "Budapesti út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2688515,
+    "LocationId": "2596",
+    "Longitude": 20.103528,
+    "value": "Budapesti út (Dorozsmai út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2255935,
+    "LocationId": "2508",
+    "Longitude": 20.1107405,
+    "value": "Cincér utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2394965,
+    "LocationId": "366",
+    "Longitude": 20.1883735,
+    "value": "Cinke u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.263949,
+    "LocationId": "375",
+    "Longitude": 20.1694515,
+    "value": "Csaba utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.281382,
+    "LocationId": "382",
+    "Longitude": 20.125004,
+    "value": "Csallóközi u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.245273,
+    "LocationId": "391",
+    "Longitude": 20.159476,
+    "value": "Csanádi utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.268692,
+    "LocationId": "407",
+    "Longitude": 20.177011,
+    "value": "Csap u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2734065,
+    "LocationId": "410",
+    "Longitude": 20.0770275,
+    "value": "Csatorna"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260305,
+    "LocationId": "2597",
+    "Longitude": 20.127999,
+    "value": "Csemegi-tó"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.244919,
+    "LocationId": "441",
+    "Longitude": 20.126435,
+    "value": "Cserepes sor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.244598,
+    "LocationId": "3929",
+    "Longitude": 20.125732,
+    "value": "Cserepes sor (Katona József u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2684175,
+    "LocationId": "443",
+    "Longitude": 20.1217275,
+    "value": "Cserje sor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26704075,
+    "LocationId": "2900",
+    "Longitude": 20.1678135,
+    "value": "Csillag tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.275955,
+    "LocationId": "2598",
+    "Longitude": 20.0353,
+    "value": "Csipkebogyó utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260849,
+    "LocationId": "2774",
+    "Longitude": 20.150718,
+    "value": "Csongrádi sgt. (Bercsényi u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2327795,
+    "LocationId": "519",
+    "Longitude": 20.1355,
+    "value": "Csonka u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.262735,
+    "LocationId": "529",
+    "Longitude": 20.135265,
+    "value": "Damjanich u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.262735,
+    "LocationId": "4503",
+    "Longitude": 20.135265,
+    "value": "Damjanich u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260708,
+    "LocationId": "4555",
+    "Longitude": 20.139146,
+    "value": "Damjanich utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26192,
+    "LocationId": "2599",
+    "Longitude": 20.157847,
+    "value": "Dankó Pista utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.269465,
+    "LocationId": "2838",
+    "Longitude": 20.1578535,
+    "value": "Deák Ferenc Gimnázium"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.26971,
+    "LocationId": "534",
+    "Longitude": 20.157785,
+    "value": "Deák Ferenc Gimnázium"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.20894,
+    "LocationId": "544",
+    "Longitude": 20.10735,
+    "value": "Deli Károly u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.235895,
+    "LocationId": "559",
+    "Longitude": 20.17678,
+    "value": "Derkovits fasor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.280351,
+    "LocationId": "568",
+    "Longitude": 20.168356,
+    "value": "Diadal u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.239475,
+    "LocationId": "2600",
+    "Longitude": 20.172895,
+    "value": "Diófa utca (Derkovits fasor)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.239095,
+    "LocationId": "2601",
+    "Longitude": 20.167275,
+    "value": "Diófa utca (Szőregi út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2688525,
+    "LocationId": "571",
+    "Longitude": 20.15111,
+    "value": "Diófa Vendéglő"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.239252,
+    "LocationId": "572",
+    "Longitude": 20.134651,
+    "value": "Dobó u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.268471,
+    "LocationId": "4456",
+    "Longitude": 20.096324,
+    "value": "Dorozsmai út (Kollégiumi út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.255065,
+    "LocationId": "607",
+    "Longitude": 20.15331,
+    "value": "Dózsa utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.262787,
+    "LocationId": "608",
+    "Longitude": 20.1888025,
+    "value": "Dráva u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.2508898,
+    "LocationId": "2901",
+    "Longitude": 20.1445884,
+    "value": "Dugonics tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2511445,
+    "LocationId": "2602",
+    "Longitude": 20.143274,
+    "value": "Dugonics tér (Dáni utca)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2589575,
+    "LocationId": "612",
+    "Longitude": 20.181183,
+    "value": "Duna u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.278193,
+    "LocationId": "3928",
+    "Longitude": 20.102653,
+    "value": "ELI lézeres kutatóközpont"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.268247,
+    "LocationId": "2767",
+    "Longitude": 20.118008,
+    "value": "Első Szegedi Ipari Park"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.238042,
+    "LocationId": "659",
+    "Longitude": 20.179669,
+    "value": "Erdélyi tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2610395,
+    "LocationId": "661",
+    "Longitude": 20.1714745,
+    "value": "Erdő utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2827355,
+    "LocationId": "663",
+    "Longitude": 20.067567,
+    "value": "Erdőtarcsa u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2587005,
+    "LocationId": "669",
+    "Longitude": 20.171021,
+    "value": "Etelka sor"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.2733295,
+    "LocationId": "2588",
+    "Longitude": 20.14728375,
+    "value": "Európa liget"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.263925,
+    "LocationId": "698",
+    "Longitude": 20.164665,
+    "value": "Fecske u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.230866,
+    "LocationId": "699",
+    "Longitude": 20.093928,
+    "value": "Fehérparti lejáró"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.302645,
+    "LocationId": "702",
+    "Longitude": 20.073189,
+    "value": "Fehértói halgazdaság"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26442,
+    "LocationId": "725",
+    "Longitude": 20.10993,
+    "value": "Fonógyári út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2660635,
+    "LocationId": "2841",
+    "Longitude": 20.112617,
+    "value": "Fonógyári út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2624225,
+    "LocationId": "4457",
+    "Longitude": 20.1073915,
+    "value": "Fonógyári út (Kollégiumi út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.263474,
+    "LocationId": "2604",
+    "Longitude": 20.1092615,
+    "value": "Fonógyári úti Iparváros"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.274908,
+    "LocationId": "4466",
+    "Longitude": 20.163543,
+    "value": "Forgalmi terelés III."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.256674,
+    "LocationId": "4467",
+    "Longitude": 20.153018,
+    "value": "Forgalmi terelés IV."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.246971,
+    "LocationId": "745",
+    "Longitude": 20.166355,
+    "value": "Fő fasor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24736,
+    "LocationId": "3292",
+    "Longitude": 20.1654505,
+    "value": "Fő fasor (Temesvári krt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.252285,
+    "LocationId": "753",
+    "Longitude": 20.136029,
+    "value": "Földhivatal"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24944,
+    "LocationId": "754",
+    "Longitude": 20.14298,
+    "value": "Földvári u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2329215,
+    "LocationId": "762",
+    "Longitude": 20.1556085,
+    "value": "Füvészkert"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2682595,
+    "LocationId": "767",
+    "Longitude": 20.177048,
+    "value": "Gábor Áron u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.261061,
+    "LocationId": "784",
+    "Longitude": 20.158728,
+    "value": "Gál u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24155,
+    "LocationId": "4504",
+    "Longitude": 20.14234,
+    "value": "Galamb utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24155,
+    "LocationId": "786",
+    "Longitude": 20.14234,
+    "value": "Galamb utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2211085,
+    "LocationId": "791",
+    "Longitude": 20.0818985,
+    "value": "Gárdonyi Géza u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2752,
+    "LocationId": "792",
+    "Longitude": 20.15098,
+    "value": "Gát utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26315,
+    "LocationId": "805",
+    "Longitude": 20.15111,
+    "value": "Gém utca"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.25625975,
+    "LocationId": "2587",
+    "Longitude": 20.15623375,
+    "value": "Glattfelder Gyula tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.244315,
+    "LocationId": "808",
+    "Longitude": 20.12926,
+    "value": "Gólya u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.203006,
+    "LocationId": "812",
+    "Longitude": 20.1913485,
+    "value": "Gőzmalom u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.278779,
+    "LocationId": "4462",
+    "Longitude": 20.096193,
+    "value": "Gumigyár (Budapesti út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.278641,
+    "LocationId": "2738",
+    "Longitude": 20.095276,
+    "value": "Gumigyár, buszforduló"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.205551,
+    "LocationId": "816",
+    "Longitude": 20.109632,
+    "value": "Gyálarét"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.205844,
+    "LocationId": "2605",
+    "Longitude": 20.188659,
+    "value": "Gyár u. (Magyar u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.206126,
+    "LocationId": "2606",
+    "Longitude": 20.1948525,
+    "value": "Gyár u. (Szerb u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.281215,
+    "LocationId": "839",
+    "Longitude": 20.16641,
+    "value": "Gyümölcs u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.250273,
+    "LocationId": "847",
+    "Longitude": 20.1304405,
+    "value": "Hajnal u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2598095,
+    "LocationId": "848",
+    "Longitude": 20.1650765,
+    "value": "Hajós u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25712,
+    "LocationId": "857",
+    "Longitude": 20.162255,
+    "value": "Háló utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2362695,
+    "LocationId": "859",
+    "Longitude": 20.185275,
+    "value": "Hargitai u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.238017,
+    "LocationId": "865",
+    "Longitude": 20.152326,
+    "value": "Hatházak"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2592395,
+    "LocationId": "874",
+    "Longitude": 20.144268,
+    "value": "Hétvezér utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.413242,
+    "LocationId": "4505",
+    "Longitude": 20.338701,
+    "value": "Hódmezővásárhely vasútállomás"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.403733,
+    "LocationId": "4506",
+    "Longitude": 20.312986,
+    "value": "Hódmezővásárhelyi Népkert vasútállomás"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.226549,
+    "LocationId": "989",
+    "Longitude": 20.112865,
+    "value": "Holt-Tisza"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260474,
+    "LocationId": "991",
+    "Longitude": 20.204763,
+    "value": "Honfoglalás u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.248651,
+    "LocationId": "2844",
+    "Longitude": 20.144536,
+    "value": "Honvéd tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24923,
+    "LocationId": "992",
+    "Longitude": 20.144848,
+    "value": "Honvéd tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.248876,
+    "LocationId": "993",
+    "Longitude": 20.144996,
+    "value": "Honvéd tér (Tisza Lajos krt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.412183,
+    "LocationId": "4507",
+    "Longitude": 20.31759,
+    "value": "Hősök tere"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25643,
+    "LocationId": "1000",
+    "Longitude": 20.134655,
+    "value": "Huszár utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.265869,
+    "LocationId": "1001",
+    "Longitude": 20.0689395,
+    "value": "Huszka Jenő utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2534805,
+    "LocationId": "2846",
+    "Longitude": 20.1256845,
+    "value": "II. Kórház"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.253555,
+    "LocationId": "1008",
+    "Longitude": 20.12592,
+    "value": "II. Kórház"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260623,
+    "LocationId": "2610",
+    "Longitude": 20.1076675,
+    "value": "Ikarusz köz"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.27564,
+    "LocationId": "1018",
+    "Longitude": 20.1457145,
+    "value": "Ipoly sor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.216553,
+    "LocationId": "1022",
+    "Longitude": 20.1921175,
+    "value": "Iskola u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.269495,
+    "LocationId": "1051",
+    "Longitude": 20.071615,
+    "value": "Jerney János Ált. Isk."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2723865,
+    "LocationId": "2611",
+    "Longitude": 20.1604565,
+    "value": "József Attila sgt. (Budapesti krt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.266806,
+    "LocationId": "2612",
+    "Longitude": 20.158801,
+    "value": "József Attila sgt. (Retek utca)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.275243,
+    "LocationId": "1066",
+    "Longitude": 20.172248,
+    "value": "Kalász u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.251855,
+    "LocationId": "1070",
+    "Longitude": 20.138645,
+    "value": "Kálvária sgt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.254318,
+    "LocationId": "2658",
+    "Longitude": 20.123972,
+    "value": "Kálvária sgt. (Vásárhelyi Pál u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.253153,
+    "LocationId": "2847",
+    "Longitude": 20.130211,
+    "value": "Kálvária tér"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.25331,
+    "LocationId": "1072",
+    "Longitude": 20.129805,
+    "value": "Kálvária tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.416677,
+    "LocationId": "4508",
+    "Longitude": 20.328532,
+    "value": "Kálvin János tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.230984,
+    "LocationId": "1074",
+    "Longitude": 20.118017,
+    "value": "Kamarási u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2307125,
+    "LocationId": "1075",
+    "Longitude": 20.1753315,
+    "value": "Kamaratöltés"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.232189,
+    "LocationId": "1093",
+    "Longitude": 20.190346,
+    "value": "Katalin utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.228703,
+    "LocationId": "1095",
+    "Longitude": 20.1801225,
+    "value": "Kavics u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.264305,
+    "LocationId": "1111",
+    "Longitude": 20.15749,
+    "value": "Kecskeméti utca"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.239705,
+    "LocationId": "1112",
+    "Longitude": 20.118315,
+    "value": "Kecskés"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2359605,
+    "LocationId": "2641",
+    "Longitude": 20.106386,
+    "value": "Kecskés telep, Bódi Vera u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.238007,
+    "LocationId": "2642",
+    "Longitude": 20.112551,
+    "value": "Kecskés telep, Gera Sándor u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.255409,
+    "LocationId": "1126",
+    "Longitude": 20.123989,
+    "value": "Kenyérgyári út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.256014,
+    "LocationId": "3313",
+    "Longitude": 20.121974,
+    "value": "Kenyérgyári út 5."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2615455,
+    "LocationId": "1132",
+    "Longitude": 20.1105775,
+    "value": "Kereskedelmi rakt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26159,
+    "LocationId": "2502",
+    "Longitude": 20.1083345,
+    "value": "Kereskedő köz"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260571,
+    "LocationId": "1133",
+    "Longitude": 20.11439,
+    "value": "Kereskedő köz (EXPO)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.290457,
+    "LocationId": "1156",
+    "Longitude": 20.085477,
+    "value": "Kísérleti gazdaság"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.21958,
+    "LocationId": "1158",
+    "Longitude": 20.11116,
+    "value": "Kiskertek"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.274382,
+    "LocationId": "1162",
+    "Longitude": 20.0642565,
+    "value": "Kiskundorozsma, ABC"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.282768,
+    "LocationId": "1163",
+    "Longitude": 20.071836,
+    "value": "Kiskundorozsma, Czékus u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.273789,
+    "LocationId": "1164",
+    "Longitude": 20.023927,
+    "value": "Kiskundorozsma, Fürdő"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2703535,
+    "LocationId": "1166",
+    "Longitude": 20.089701,
+    "value": "Kiskundorozsma, vá.bej."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.282122,
+    "LocationId": "1167",
+    "Longitude": 20.063549,
+    "value": "Kiskundorozsma, Vásártér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.244541,
+    "LocationId": "1211",
+    "Longitude": 20.165169,
+    "value": "Kisstadion"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2659765,
+    "LocationId": "1235",
+    "Longitude": 20.1318945,
+    "value": "Kisteleki u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2339315,
+    "LocationId": "1245",
+    "Longitude": 20.1861355,
+    "value": "Klára utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24584,
+    "LocationId": "1247",
+    "Longitude": 20.14747,
+    "value": "Klinikák"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.283935,
+    "LocationId": "1249",
+    "Longitude": 20.165485,
+    "value": "Kokárda u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2689875,
+    "LocationId": "2616",
+    "Longitude": 20.0965885,
+    "value": "Kollégiumi út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.246465,
+    "LocationId": "1250",
+    "Longitude": 20.131673,
+    "value": "Kolozsvári tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.216381,
+    "LocationId": "2617",
+    "Longitude": 20.075309,
+    "value": "Koppány köz"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2173345,
+    "LocationId": "2618",
+    "Longitude": 20.197249,
+    "value": "Kossuth Lajos Ált. Isk."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.41465,
+    "LocationId": "4509",
+    "Longitude": 20.319727,
+    "value": "Kossuth tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.20608,
+    "LocationId": "1257",
+    "Longitude": 20.106645,
+    "value": "Koszorú u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26969,
+    "LocationId": "2503",
+    "Longitude": 20.13483,
+    "value": "Körtöltés utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2465315,
+    "LocationId": "1285",
+    "Longitude": 20.16767,
+    "value": "Közép fasor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2489545,
+    "LocationId": "2619",
+    "Longitude": 20.1705545,
+    "value": "Közép fasor (Bérkert u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.254556,
+    "LocationId": "2942",
+    "Longitude": 20.098779,
+    "value": "Krematórium"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26053,
+    "LocationId": "1317",
+    "Longitude": 20.15732,
+    "value": "Lengyel u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2715675,
+    "LocationId": "1321",
+    "Longitude": 20.172585,
+    "value": "Lidicei tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25507,
+    "LocationId": "2548",
+    "Longitude": 20.138307,
+    "value": "Londoni krt. (Bakay N. u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.251923,
+    "LocationId": "2848",
+    "Longitude": 20.138612,
+    "value": "Londoni krt. (Kálvária sgt.)"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.25196,
+    "LocationId": "2542",
+    "Longitude": 20.13821,
+    "value": "Londoni krt. (Kálvária sgt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26692,
+    "LocationId": "1333",
+    "Longitude": 20.170835,
+    "value": "Lugas utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2767445,
+    "LocationId": "2849",
+    "Longitude": 20.146818,
+    "value": "Makkosház"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2768146666667,
+    "LocationId": "1346",
+    "Longitude": 20.14698,
+    "value": "Makkosház"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2721243333333,
+    "LocationId": "2898",
+    "Longitude": 20.1487316666667,
+    "value": "Makkosházi krt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.273066,
+    "LocationId": "2620",
+    "Longitude": 20.147845,
+    "value": "Makkosházi krt. (Csongrádi sgt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.273492,
+    "LocationId": "1389",
+    "Longitude": 20.071709,
+    "value": "Malom (Dorozsmai út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.272986,
+    "LocationId": "1390",
+    "Longitude": 20.071583,
+    "value": "Malom (Jerney u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.247891,
+    "LocationId": "1404",
+    "Longitude": 20.1744185,
+    "value": "Marostői utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.256168,
+    "LocationId": "2547",
+    "Longitude": 20.140789,
+    "value": "Mars tér (Attila u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25915,
+    "LocationId": "4547",
+    "Longitude": 20.143991,
+    "value": "Mars tér (Aut. á.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.259117,
+    "LocationId": "4546",
+    "Longitude": 20.143915,
+    "value": "Mars tér (Aut. á.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.256902,
+    "LocationId": "2546",
+    "Longitude": 20.1415825,
+    "value": "Mars tér (Aut. áll.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2557325,
+    "LocationId": "1407",
+    "Longitude": 20.1428385,
+    "value": "Mars tér (Mikszáth u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2590636666667,
+    "LocationId": "2533",
+    "Longitude": 20.1409086666667,
+    "value": "Mars tér (Szt. Rókus tér)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2577633333333,
+    "LocationId": "1411",
+    "Longitude": 20.14093,
+    "value": "Mars tér (üzletsor)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.246464,
+    "LocationId": "1526",
+    "Longitude": 20.137206,
+    "value": "Moszkvai krt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.257825,
+    "LocationId": "1528",
+    "Longitude": 20.13096,
+    "value": "Mura utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.252557,
+    "LocationId": "1529",
+    "Longitude": 20.151369,
+    "value": "Múzeum"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.275202,
+    "LocationId": "2643",
+    "Longitude": 20.119442,
+    "value": "Nagyszombati u. (páratlan oldal)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.275836,
+    "LocationId": "2644",
+    "Longitude": 20.118297,
+    "value": "Nagyszombati u. (páros oldal)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2263455,
+    "LocationId": "1596",
+    "Longitude": 20.185956,
+    "value": "Napfény köz"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.249712,
+    "LocationId": "2534",
+    "Longitude": 20.1601535,
+    "value": "Napfényfürdő"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.265497,
+    "LocationId": "2622",
+    "Longitude": 20.120894,
+    "value": "Napos út (Dorozsmai út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2794575,
+    "LocationId": "1599",
+    "Longitude": 20.0639595,
+    "value": "Negyvennyolcas u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2572825,
+    "LocationId": "2895",
+    "Longitude": 20.196636,
+    "value": "Nyilassy utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2733185,
+    "LocationId": "1647",
+    "Longitude": 20.151574,
+    "value": "Ortutay utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2753865,
+    "LocationId": "2624",
+    "Longitude": 20.099419,
+    "value": "Öthalmi Diáklakások"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.246497,
+    "LocationId": "1703",
+    "Longitude": 20.1386825,
+    "value": "Petőfi Sándor sgt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2631633333333,
+    "LocationId": "1708",
+    "Longitude": 20.1804666666667,
+    "value": "Petőfitelep, Fő tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.237192,
+    "LocationId": "1712",
+    "Longitude": 20.1831385,
+    "value": "Pinty u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2377165,
+    "LocationId": "1713",
+    "Longitude": 20.18794,
+    "value": "Pipiske utca"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.2644933333333,
+    "LocationId": "2185",
+    "Longitude": 20.12589,
+    "value": "Pulz utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.264495,
+    "LocationId": "4510",
+    "Longitude": 20.125905,
+    "value": "Pulz utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2425665,
+    "LocationId": "1766",
+    "Longitude": 20.1809265,
+    "value": "Radnóti u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2438733333333,
+    "LocationId": "1768",
+    "Longitude": 20.1327016666667,
+    "value": "Rákóczi u. (Vám tér)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2280685,
+    "LocationId": "1784",
+    "Longitude": 20.116162,
+    "value": "Rendező tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.277814,
+    "LocationId": "1785",
+    "Longitude": 20.120784,
+    "value": "Rengey u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.251026,
+    "LocationId": "1787",
+    "Longitude": 20.102235,
+    "value": "Repülőtér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2539065,
+    "LocationId": "1788",
+    "Longitude": 20.1018305,
+    "value": "Repülőtér bej.út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2666505,
+    "LocationId": "1789",
+    "Longitude": 20.1575895,
+    "value": "Retek utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.258157,
+    "LocationId": "1790",
+    "Longitude": 20.200594,
+    "value": "Rév u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.265945,
+    "LocationId": "4522",
+    "Longitude": 20.125575,
+    "value": "Rókus vá."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.27078,
+    "LocationId": "1798",
+    "Longitude": 20.1394975,
+    "value": "Rókusi II. sz. Ált. Isk."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.259285,
+    "LocationId": "1799",
+    "Longitude": 20.141815,
+    "value": "Rókusi templom"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.259285,
+    "LocationId": "4512",
+    "Longitude": 20.141815,
+    "value": "Rókusi templom"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.259361,
+    "LocationId": "2897",
+    "Longitude": 20.141603,
+    "value": "Rókusi templom"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.26919,
+    "LocationId": "1800",
+    "Longitude": 20.1360226666667,
+    "value": "Rókusi víztorony"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260905,
+    "LocationId": "2625",
+    "Longitude": 20.161402,
+    "value": "Római krt. (Szilléri sgt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26634,
+    "LocationId": "1804",
+    "Longitude": 20.15194,
+    "value": "Rózsa u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26641,
+    "LocationId": "2579",
+    "Longitude": 20.151355,
+    "value": "Rózsa utca (Csongrádi sgt.)"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.2665,
+    "LocationId": "2581",
+    "Longitude": 20.157425,
+    "value": "Rózsa utca (József A. sgt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2103195,
+    "LocationId": "2627",
+    "Longitude": 20.188871,
+    "value": "Rózsatő u. (Magyar u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.210435,
+    "LocationId": "2628",
+    "Longitude": 20.195218,
+    "value": "Rózsatő u. (Szerb u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2474455,
+    "LocationId": "3310",
+    "Longitude": 20.14528,
+    "value": "Ságvári Gimnázium - SZTK"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24744,
+    "LocationId": "2205",
+    "Longitude": 20.14536,
+    "value": "Ságvári Gimnázium-SZTK"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.259911,
+    "LocationId": "1845",
+    "Longitude": 20.162162,
+    "value": "Sajka utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26155,
+    "LocationId": "1852",
+    "Longitude": 20.15691,
+    "value": "Sándor u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2367335,
+    "LocationId": "1880",
+    "Longitude": 20.131648,
+    "value": "Sárkány u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.25047,
+    "LocationId": "1909",
+    "Longitude": 20.14771,
+    "value": "Somogyi utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25047,
+    "LocationId": "4513",
+    "Longitude": 20.14771,
+    "value": "Somogyi utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24536,
+    "LocationId": "2645",
+    "Longitude": 20.163055,
+    "value": "Sportcsarnok (Székely sor)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.244129,
+    "LocationId": "2646",
+    "Longitude": 20.1630065,
+    "value": "Sportcsarnok (Temesvári krt.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.275255,
+    "LocationId": "1916",
+    "Longitude": 20.0323905,
+    "value": "Subasa"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.242424,
+    "LocationId": "2856",
+    "Longitude": 20.126381,
+    "value": "Szabadkai út"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.242445,
+    "LocationId": "1924",
+    "Longitude": 20.127055,
+    "value": "Szabadkai út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2340725,
+    "LocationId": "1929",
+    "Longitude": 20.1322395,
+    "value": "Szabadság tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2363775,
+    "LocationId": "1930",
+    "Longitude": 20.1385125,
+    "value": "Szabadsajtó u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.241085,
+    "LocationId": "1935",
+    "Longitude": 20.12271,
+    "value": "Szalámigyár"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.241106,
+    "LocationId": "2857",
+    "Longitude": 20.122471,
+    "value": "Szalámigyár"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2666565,
+    "LocationId": "1938",
+    "Longitude": 20.1618675,
+    "value": "Szamos u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.268952,
+    "LocationId": "4556",
+    "Longitude": 20.135493,
+    "value": "Szatymazi utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26697,
+    "LocationId": "2537",
+    "Longitude": 20.13286,
+    "value": "Szatymazi utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2658325,
+    "LocationId": "2700",
+    "Longitude": 20.0628895,
+    "value": "Széchenyi István u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.252642,
+    "LocationId": "1989",
+    "Longitude": 20.14926,
+    "value": "Széchenyi tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25272,
+    "LocationId": "4514",
+    "Longitude": 20.149335,
+    "value": "Széchenyi tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.252768,
+    "LocationId": "2858",
+    "Longitude": 20.1483493333333,
+    "value": "Széchenyi tér (Kelemen u.)"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.239795,
+    "LocationId": "1994",
+    "Longitude": 20.1425945,
+    "value": "Szeged vá."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.23979,
+    "LocationId": "4523",
+    "Longitude": 20.142559,
+    "value": "Szeged vá."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2403205,
+    "LocationId": "4484",
+    "Longitude": 20.142795,
+    "value": "Szeged vasútállomás"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2653725,
+    "LocationId": "4308",
+    "Longitude": 20.1275305,
+    "value": "Szeged, Rókus vá. bej. út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2783365,
+    "LocationId": "2047",
+    "Longitude": 20.1673085,
+    "value": "Szeged, Szélső sor"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.288785,
+    "LocationId": "2053",
+    "Longitude": 20.084276,
+    "value": "Szegedi Ipari Logisztikai Központ"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2772495,
+    "LocationId": "2629",
+    "Longitude": 20.0526255,
+    "value": "Széksósi út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2478945,
+    "LocationId": "2082",
+    "Longitude": 20.129057,
+    "value": "Szél u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2422495,
+    "LocationId": "2086",
+    "Longitude": 20.137805,
+    "value": "Szent Ferenc u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.259045,
+    "LocationId": "2087",
+    "Longitude": 20.15678,
+    "value": "Szent György tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2582955,
+    "LocationId": "2088",
+    "Longitude": 20.150886,
+    "value": "Szent István tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.274367,
+    "LocationId": "2661",
+    "Longitude": 20.062194,
+    "value": "Szent János tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.250605,
+    "LocationId": "2085",
+    "Longitude": 20.166965,
+    "value": "Szent-Györgyi Albert u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.212248,
+    "LocationId": "2176",
+    "Longitude": 20.069222,
+    "value": "Szentmihály"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2190245,
+    "LocationId": "2177",
+    "Longitude": 20.0789415,
+    "value": "Szentmihály, malom"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.24614,
+    "LocationId": "2186",
+    "Longitude": 20.1368,
+    "value": "Szivárvány kitérő"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2211545,
+    "LocationId": "2771",
+    "Longitude": 20.196855,
+    "value": "Szőreg, ABC"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.202172,
+    "LocationId": "2196",
+    "Longitude": 20.194397,
+    "value": "Szőreg, malom"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.213816,
+    "LocationId": "2631",
+    "Longitude": 20.1961475,
+    "value": "Szőregi Szabadidőpark"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.247178,
+    "LocationId": "2198",
+    "Longitude": 20.178313,
+    "value": "Szöri u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2462375,
+    "LocationId": "2200",
+    "Longitude": 20.183407,
+    "value": "Szövetség u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.222956,
+    "LocationId": "2206",
+    "Longitude": 20.1093725,
+    "value": "Szúnyog u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.258568,
+    "LocationId": "2692",
+    "Longitude": 20.16748,
+    "value": "Tabán u.(Felső Tisza-part)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.244521,
+    "LocationId": "2215",
+    "Longitude": 20.1866705,
+    "value": "Tanács u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2597065,
+    "LocationId": "2219",
+    "Longitude": 20.193583,
+    "value": "Tápé, Ált. Isk."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.263772,
+    "LocationId": "2220",
+    "Longitude": 20.208097,
+    "value": "Tápé, Csatár u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.27549625,
+    "LocationId": "2225",
+    "Longitude": 20.16441475,
+    "value": "Tarján"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.27089,
+    "LocationId": "2227",
+    "Longitude": 20.16454,
+    "value": "Tarján, víztorony"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2706805,
+    "LocationId": "2228",
+    "Longitude": 20.1641785,
+    "value": "Tarján, Víztorony tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.271952,
+    "LocationId": "2231",
+    "Longitude": 20.0842425,
+    "value": "Tassi ház"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.260675,
+    "LocationId": "2242",
+    "Longitude": 20.139175,
+    "value": "Tavasz utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.260675,
+    "LocationId": "4516",
+    "Longitude": 20.139175,
+    "value": "Tavasz utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2499605,
+    "LocationId": "2632",
+    "Longitude": 20.165933,
+    "value": "Temesvári krt. (Népkert sor)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.241352,
+    "LocationId": "2261",
+    "Longitude": 20.184332,
+    "value": "Thököly u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.252878,
+    "LocationId": "4548",
+    "Longitude": 20.148138,
+    "value": "Tisza Lajos krt. (Mikszáth K. u.)"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.254695,
+    "LocationId": "2585",
+    "Longitude": 20.146665,
+    "value": "Tisza Lajos krt.(Károlyi u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25452,
+    "LocationId": "2586",
+    "Longitude": 20.14588,
+    "value": "Tisza Lajos krt.(Mikszáth K. u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24828,
+    "LocationId": "2529",
+    "Longitude": 20.1584,
+    "value": "Torontál tér (P+R)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2428685,
+    "LocationId": "2322",
+    "Longitude": 20.169154,
+    "value": "Töltés u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.233085,
+    "LocationId": "2339",
+    "Longitude": 20.175315,
+    "value": "Traktor u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.217985,
+    "LocationId": "2633",
+    "Longitude": 20.11055,
+    "value": "Tücsök utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26557,
+    "LocationId": "4550",
+    "Longitude": 20.151244,
+    "value": "Tündér u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.265719,
+    "LocationId": "4549",
+    "Longitude": 20.151205,
+    "value": "Tündér u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26316,
+    "LocationId": "2344",
+    "Longitude": 20.15094,
+    "value": "Tündér utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.266411,
+    "LocationId": "2345",
+    "Longitude": 20.117576,
+    "value": "Tűzoltó utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.28406,
+    "LocationId": "2348",
+    "Longitude": 20.174008,
+    "value": "Új-Petőfitelep"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24522,
+    "LocationId": "4552",
+    "Longitude": 20.15957,
+    "value": "Újszeged, Csanádi utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.244825,
+    "LocationId": "2634",
+    "Longitude": 20.1572065,
+    "value": "Újszeged, Gabonakutató"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.24369,
+    "LocationId": "2360",
+    "Longitude": 20.16107,
+    "value": "Újszeged, Gyermekkórház"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2449005,
+    "LocationId": "2361",
+    "Longitude": 20.1734455,
+    "value": "Újszeged, víztorony"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.253983,
+    "LocationId": "2391",
+    "Longitude": 20.1182626666667,
+    "value": "Vadaspark"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.253955,
+    "LocationId": "2863",
+    "Longitude": 20.1171495,
+    "value": "Vadaspark"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.254494,
+    "LocationId": "2526",
+    "Longitude": 20.118704,
+    "value": "Vadaspark (Textilgyári út)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.23507,
+    "LocationId": "2393",
+    "Longitude": 20.126355,
+    "value": "Vadkerti tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.23443,
+    "LocationId": "2394",
+    "Longitude": 20.12456,
+    "value": "Vadkerti tér, buszforduló"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2646765,
+    "LocationId": "4458",
+    "Longitude": 20.09905,
+    "value": "Vállalkozó köz"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.24333,
+    "LocationId": "2402",
+    "Longitude": 20.13116,
+    "value": "Vám tér"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.258044,
+    "LocationId": "2635",
+    "Longitude": 20.175688,
+    "value": "Városi Stadion"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2636125,
+    "LocationId": "2637",
+    "Longitude": 20.130347,
+    "value": "Vásárhelyi Pál u. (Pulz u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.263749,
+    "LocationId": "4530",
+    "Longitude": 20.130403,
+    "value": "Vásárhelyi Pál út (Pulz u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26399,
+    "LocationId": "2902",
+    "Longitude": 20.13121,
+    "value": "Vásárhelyi Pál utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.26377,
+    "LocationId": "4517",
+    "Longitude": 20.131225,
+    "value": "Vásárhelyi Pál utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.25945,
+    "LocationId": "2549",
+    "Longitude": 20.12674,
+    "value": "Vásárhelyi Pál utca (Bakay N. u.)"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2136245,
+    "LocationId": "2414",
+    "Longitude": 20.189585,
+    "value": "Vaspálya u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.226447,
+    "LocationId": "2426",
+    "Longitude": 20.0892215,
+    "value": "Verbéna u."
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.2527065,
+    "LocationId": "2590",
+    "Longitude": 20.133938,
+    "value": "Veresács utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.272249,
+    "LocationId": "4531",
+    "Longitude": 20.143434,
+    "value": "Vértó"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.2721625,
+    "LocationId": "2432",
+    "Longitude": 20.14357725,
+    "value": "Vértó"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.27428,
+    "LocationId": "2433",
+    "Longitude": 20.1413,
+    "value": "Vértói út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2744465,
+    "LocationId": "2865",
+    "Longitude": 20.1415045,
+    "value": "Vértói út"
+},
+{
+    "IsAccessibility": true,
+    "Latitude": 46.248505,
+    "LocationId": "2441",
+    "Longitude": 20.141145,
+    "value": "Vitéz utca"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.2576715,
+    "LocationId": "4459",
+    "Longitude": 20.125932,
+    "value": "VOLÁNBUSZ Zrt."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.264182,
+    "LocationId": "2450",
+    "Longitude": 20.185434,
+    "value": "Zágráb u."
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.272408,
+    "LocationId": "2638",
+    "Longitude": 20.1019065,
+    "value": "Zápor út"
+},
+{
+    "IsAccessibility": false,
+    "Latitude": 46.280979,
+    "LocationId": "2481",
+    "Longitude": 20.126474,
+    "value": "Zsámbokréti sor"
+}]
