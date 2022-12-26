@@ -1,0 +1,124 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "SZKT API",
+    "description": "Ez egy nem hivatalos API, amellyel a Szegedi Közlekedési Kft. [xmap.szkt.hu](http://xmap.szkt.hu) címen lévő felületén található adatokat lehet elérni.\n\nFontos linkek:\n- [Az eredeti felület elérhetősége](http://xmap.szkt.hu)\n- [A Szegedi Közlekedési Kft. weboldala](https://szkt.hu/)",
+    "termsOfService": "http://todo.fake.kmarcell.com",
+    "contact": {
+      "email": "szktapi@kmarcell.com",
+      "name": "Kiss Marcell"
+    },
+    "license": {
+      "name": "TODO",
+      "url": "http://todo.fake.kmarcell.com"
+    },
+    "version": "0.1"
+  },
+  "servers": [
+    {
+      "url": "https://szktapi.local.kmarcell.com"
+    },
+    {
+      "url": "https://szkt.api.kmarcell.com"
+    }
+  ],
+  "tags": [
+    {
+      "name": "default",
+      "description": "Get information about public transport in Szeged."
+    }
+  ],
+  "paths": {
+    "/findstation": {
+      "get": {
+        "tags": [
+          "default"
+        ],
+        "summary": "Információkérés egy állomásról ID vagy név(részlet) alapján.",
+        "description": "Legalább az egyik paraméter megadása kötelező.",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "id",
+            "schema": {
+              "type": "integer"
+            },
+            "required": false,
+            "description": "Az állomás ID-ja."
+          },
+          {
+            "in": "query",
+            "name": "name",
+            "schema": {
+              "type": "string"
+            },
+            "required": false,
+            "description": "Az állomás neve (vagy annak részlete)."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Sikeres lekérés",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Station"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Hibás/hiányos kérés",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Error": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "integer"
+          },
+          "severity": {
+            "type": "string"
+          },
+          "message": {
+            "type": "string"
+          }
+        },
+        "example": "{\"code\":400,\"severity\":\"ERROR\",\"message\":\"Either station ID or name must be passed!\"}"
+      },
+      "Station": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "latitude": {
+            "type": "string"
+          },
+          "longitude": {
+            "type": "string"
+          },
+          "accessibility": {
+            "type": "integer"
+          }
+        },
+        "example": "[{\"id\":28,\"name\":\"Acél u.\",\"latitude\":\"46.2780635\",\"longitude\":\"20.170845\",\"accessibility\":0}]"
+      }
+    }
+  }
+}
