@@ -1,0 +1,1 @@
+# szeged-transport-api
